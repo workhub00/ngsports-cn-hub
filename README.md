@@ -1,2 +1,14 @@
 # ngsports-cn-hub
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
